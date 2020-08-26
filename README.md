@@ -6,5 +6,5 @@
 
 <br/>
 
-[:pencil: 내용 정리](https://github.com/yujinK/NewGithubRepos.git/master/content.md)
+[:pencil: 내용 정리](https://github.com/yujinK/NewGithubRepos/blob/master/content.md)
 
