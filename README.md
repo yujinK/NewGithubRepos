@@ -1,10 +1,10 @@
 # NewGithubRepos
 > 안드로이드 개발 레벨업 교과서  
-> CHAPTER 05_변경에 강하게 설계한다: MVVM 설계 기법의 이해와 라이브러리 활용
+> CHAPTER 05_변경에 강하게 설계한다: MVVM 설계 기법의 이해와 라이브러리 활용&nbsp;
 >
 > 해당 교재의 버전이 오래 되어 현재 버전에 맞게 수정 & Kotlin으로 개발  
 
-
+<br/>
 
 액티비티 클래스 : 하나의 화면을 대표하는 클래스
 
@@ -14,17 +14,17 @@
 
 -> 많은 처리 내용을 기술하게 되고, 결국에는 변경에 취약하고 관리하기 힘든 `스파게티 코드`가 되기 십상  
 
-
+<br/>
 
 MVP(Model View Presenter) : 역할에 따라 코드를 분리할 수 있어 `변경에 강한 코드` 기술 가능
 
 MVVM(Model View ViewModel) : `Data Binding`을 전제로 한 설계 기법
 
-
+<br/>
 
 ---
 
-
+<br/>
 
 ## MVP (Model View Presenter)
 
@@ -59,9 +59,9 @@ MVVM(Model View ViewModel) : `Data Binding`을 전제로 한 설계 기법
 - 모델에서 가져온 데이터를 뷰에 표시하는 것을 개발자가 직접 구현해야 함
 - UI 로직을 프레젠터로 분리하는 설계의 난이도가 높음
 
+<br/>
 
-
-
+<br/>
 
 ## MVVM (Model View ViewModel)
 
